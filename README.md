@@ -6,5 +6,7 @@
 - 🎮 MC版塔防
 - 🎮 闇湧能量
 ## ➕加入我們
-- <a target='_blank' href='https://discord.gg/GeBE3X9HfV'><img src='img/discord.png' height='12px'>官方Discord群</a>
-
+- <img src='img/discord.png' height='12px'>官方Discord群：https://discord.gg/GeBE3X9HfV
+## 🔗連結
+- 官方Youtube頻道：https://www.youtube.com/@SunOcaGames/
+- 官方Scratch帳號：https://www.youtube.com/@SunOcaGames/
