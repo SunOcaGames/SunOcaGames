@@ -9,4 +9,4 @@
 - <img src='img/discord.png' height='12px'>官方Discord群：https://discord.gg/GeBE3X9HfV
 ## 🔗連結
 - 官方Youtube頻道：https://www.youtube.com/@SunOcaGames/
-- 官方Scratch帳號：https://www.youtube.com/@SunOcaGames/
+- 官方Scratch帳號：https://scratch.mit.edu/users/SunOcaGames/
