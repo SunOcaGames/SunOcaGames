@@ -6,5 +6,5 @@
 - 🎮 MC版塔防
 - 🎮 闇湧能量
 ## ➕加入我們
-- <a target='_blank' href='https://discord.gg/DwQjJZAjAz'><img src='img/discord.png' height='12px'>官方Discord群</a>
+- <a target='_blank' href='https://discord.gg/GeBE3X9HfV'><img src='img/discord.png' height='12px'>官方Discord群</a>
 
