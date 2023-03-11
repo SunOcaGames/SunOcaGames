@@ -10,3 +10,4 @@
 ## 🔗連結
 - 官方Youtube頻道：https://www.youtube.com/@SunOcaGames/
 - 官方Scratch帳號：https://scratch.mit.edu/users/SunOcaGames/
+- 官方Discord帳號：SunOcaGames#3968
